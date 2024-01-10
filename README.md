@@ -1,7 +1,6 @@
 # Food-Recipe-App-React-Native
 
-![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F18%2FReact_Native_Logo.png%2F640px-React_Native_Logo.png&tbnid=-__av7j_tYctOM&vet=12ahUKEwiHn_ryjdKDAxXma2wGHV9ADK0QMygGegQIARBz..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AReact_Native_Logo.png&docid=NpWEY_yg6hilTM&w=640&h=336&q=react%20native%20logo&ved=2ahUKEwiHn_ryjdKDAxXma2wGHV9ADK0QMygGegQIARBz)
-
+![download](https://github.com/animesh30-dev/react-native-food-delivery-app/assets/146109979/84c2d324-004c-4362-9de5-acdd0662cc09)
  
 ## This was my first demo app which was built with the help of Code With Nomi, and now would be diving deeper in the world of react native.    
 
