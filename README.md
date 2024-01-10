@@ -1,6 +1,6 @@
 # Food-Recipe-App-React-Native
-< p align="center">
-<img src="https://github.com/animesh30-dev/react-native-food-delivery-app/assets/146109979/84c2d324-004c-4362-9de5-acdd0662cc09" width="200" height="400" />
+<p align="center">
+<img src="https://github.com/animesh30-dev/react-native-food-delivery-app/assets/146109979/84c2d324-004c-4362-9de5-acdd0662cc09" width="320" height="240" />
 </p>
  
 ## This was my first demo app which was built with the help of Code With Nomi, and now would be diving deeper in the world of react native.    
