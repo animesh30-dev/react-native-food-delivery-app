@@ -1,16 +1,9 @@
 # Food-Recipe-App-React-Native
 
-![Image](https://cdn.dribbble.com/userupload/9661662/file/original-ce9fa19b4cedbd0c7eae7fd797f86462.png?compress=1&resize=1600x1200)
+![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F18%2FReact_Native_Logo.png%2F640px-React_Native_Logo.png&tbnid=-__av7j_tYctOM&vet=12ahUKEwiHn_ryjdKDAxXma2wGHV9ADK0QMygGegQIARBz..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AReact_Native_Logo.png&docid=NpWEY_yg6hilTM&w=640&h=336&q=react%20native%20logo&ved=2ahUKEwiHn_ryjdKDAxXma2wGHV9ADK0QMygGegQIARBz)
 
-  
-  <p align="left">
-    <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    <p>
-      Watch Tutorial on YouTube <a href="https://youtu.be/cdnneQjsoT0" target="_blank">Food Recipe App in React Native with Reanimated</a>
-    </p>
-    
-  </p>
-  
+ 
+## This was my first demo app which was built with the help of Code With Nomi, and now would be diving deeper in the world of react native.    
 
 ## Get Started
 
@@ -38,11 +31,8 @@ Like `npm start` / `yarn start`, but also attempts to open your app on a connect
 
 <br />
 
-💙 If you like this project, give it a ⭐ and share it with friends!
 
-<p align="left">
-  <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://twitter.com/codewithnomi_"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
 
-<a href="https://www.buymeacoffee.com/syednoman">☕ Buy me a coffee</a>
+
+
+
