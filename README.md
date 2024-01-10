@@ -4,10 +4,11 @@
 </p>
 
  
-## This was my first demo app which was built with the help of Code With Nomi, and now would be diving deeper in the world of react native.    
+## This was my first demo app which was built with the help of Code With Nomi, and now would be diving deeper in the world of react native. The link to project tutorial is given below.
 <p align="left">
     <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://github.com/animesh30-dev/react-native-food-delivery-app/assets/146109979/10e7714d-1f5f-4c23-b178-2ffe733a1275" width="50" height="50"/></a>
     <p>
+     
 ## Get Started
 
 install dev dependencies
