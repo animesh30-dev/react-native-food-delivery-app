@@ -2,6 +2,9 @@
 <p align="center">
 <img src="https://github.com/animesh30-dev/react-native-food-delivery-app/assets/146109979/84c2d324-004c-4362-9de5-acdd0662cc09" width="320" height="240" />
 </p>
+<p align="left">
+    <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+    <p>
  
 ## This was my first demo app which was built with the help of Code With Nomi, and now would be diving deeper in the world of react native.    
 
