@@ -2,12 +2,12 @@
 <p align="center">
 <img src="https://github.com/animesh30-dev/react-native-food-delivery-app/assets/146109979/84c2d324-004c-4362-9de5-acdd0662cc09" width="320" height="240" />
 </p>
-<p align="left">
-    <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fexplore%2Fd744245de144b89f3e3462949e08bfc91eda7fcf%2Ftopics%2Fyoutube%2Fyoutube.png&tbnid=3pgRcvR_BJQ-AM&vet=12ahUKEwjU__r5kdKDAxVJrGMGHWBwC8YQMygCegQIARBT..i&imgrefurl=https%3A%2F%2Fgithub.com%2Ftopics%2Fyoutube%3Fl%3Dc%2523&docid=1-4SWN1tJIc9XM&w=288&h=288&q=youtube%20logo%20for%20github%20readme&ved=2ahUKEwjU__r5kdKDAxVJrGMGHWBwC8YQMygCegQIARBT"/></a>
-    <p>
+
  
 ## This was my first demo app which was built with the help of Code With Nomi, and now would be diving deeper in the world of react native.    
-
+<p align="left">
+    <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://github.com/animesh30-dev/react-native-food-delivery-app/assets/146109979/8844ce8a-2bf6-45a5-a401-7165dc4738d0"/></a>
+    <p>
 ## Get Started
 
 install dev dependencies
